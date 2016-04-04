@@ -1,0 +1,14 @@
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\HL7MessageViewer.dll.config
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\HL7MessageViewer.dll
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\HL7MessageViewer.pdb
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\obj\Debug\HL7MessageViewer.csprojResolveAssemblyReference.cache
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\obj\Debug\HL7MessageViewer.dll
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\obj\Debug\HL7MessageViewer.pdb
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\Newtonsoft.Json.dll
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\System.Net.Http.Formatting.dll
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\System.Web.Http.dll
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\System.Web.Http.WebHost.dll
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\Newtonsoft.Json.xml
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\System.Net.Http.Formatting.xml
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\System.Web.Http.xml
+S:\Workspace\Consoles\HL7MessageViewer\HL7MessageViewer\bin\System.Web.Http.WebHost.xml
